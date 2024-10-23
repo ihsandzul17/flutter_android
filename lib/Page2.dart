@@ -38,13 +38,13 @@ class Page2 extends StatelessWidget {
             Center(
               child: CircleAvatar(
                 radius: 50,
-                backgroundImage: AssetImage('images/profil1.jpg'),
+                backgroundImage: AssetImage('images/propildoli.jpg'),
               ),
             ),
             SizedBox(height: 16),
             Center(
               child: Text(
-                'Syamil Fauzan Maranri',
+                'Pangeran Habibi Zalfa Hafidz',
                 style: TextStyle(
                   fontSize: 24,
                   fontWeight: FontWeight.bold,

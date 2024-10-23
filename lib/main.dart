@@ -47,7 +47,7 @@ class home extends StatelessWidget {
                     children: <Widget>[
                       CircleAvatar(
                         radius: 100.0,
-                        backgroundImage: AssetImage('images/profil1.jpg'),
+                        backgroundImage: AssetImage('images/propildoli.jpg'),
                       ),
                       Text(
                         name, // Munculkan Nama yang diinput
